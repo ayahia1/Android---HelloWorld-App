@@ -1,7 +1,11 @@
-## NAME_OF_YOUR_APP_HERE
+# Project 0 - *HelloWorld*
 
 ### App Description
-`TODO://` Add app description
+`**HelloWorld** is an android app that displays a welcoming message on a screen and allows basic editing functionalities with the screen background and the displayed message color and content.
+
+Submitted by: **Abdelrahman Abdelmonsef**
+
+Time spent: **1.5** hours spent in total
 
 ### App Walk-though
 <img src= "https://i.imgur.com/tkdcEnf.gif" width=200><br>
